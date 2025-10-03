@@ -1,4 +1,1 @@
-# spaceappschallenge-copenhagen-2025
-Support for https://www.spaceappschallenge.org/2025/local-events/copenhagen/
-
 This repository is for participants of the [Copenhagen Local Event of the 2025 NASA International Space Apps Challenge](https://www.spaceappschallenge.org/2025/local-events/copenhagen/) to host project assets. Use [Issues](https://github.com/dwinston/spaceappschallenge-copenhagen-2025/issues) for discussion specific to commiting project assets to the repository, and use [Discussions](https://github.com/dwinston/spaceappschallenge-copenhagen-2025/discussions) for general discussion related to the local event. For discussion/Q&A related to the Challenge in general (beyond just matters in Copenhagen), use [the official (also GitHub-Discussions-based) Space Apps Connect forum](https://github.com/nasa/spaceapps/discussions).
